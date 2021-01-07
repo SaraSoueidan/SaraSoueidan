@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m Sara. I'm an independent UI engineer helping brands build modern, resilient, and inclusive Web user interfaces and design systems, with a strong focus on responsive design, performance, and accessibility.
 
 <!--
 **SaraSoueidan/SaraSoueidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
